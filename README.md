@@ -1,2 +1,2 @@
 # -GamingOS-
-Based on ubntu one
+Based on windows 11 mobile Kenari edition 
